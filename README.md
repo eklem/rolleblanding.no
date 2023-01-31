@@ -9,7 +9,7 @@ Prøv å få et svar. Rop gjerne over gata. Spør høfflig nok, men skikkelig ty
 
 # Hvis de spør om hvorfor du spør
 
-Nå har du en fin-fin anledning. Da kan du svare kort:
+Nå har du en fin-fin anledning. Da kan du svare kort: 
 
 * `"Dere bytter rolle hele tiden"`. Dette er også grunnen til at du kan spørre hver gang. Du vet aldri hvilken rolle de er i.
 * Fortelle mer om at `"Det er vanskelig å vite siden det som tilsynelatende ser ut som politi, argumenterer som Norsk Narkotikapolitiforening"`.
