@@ -7,7 +7,7 @@ En liten websiden om hvordan få slutt på #rolleblanding mellom #politiet og #n
   Spør tydelig. Spør hver gang. De bytter rolle stadig vekk.
 * `"Så du/dere representerer ikke Norsk Narkotikapolitiforening?"`, hvis de i politiuniform allerede har presenterer seg som politi.
 
-Prøv å få et svar. Vær høfflig, men tydelig.
+Prøv å få et svar. Rop gjerne over gata. Spør høfflig nok, men skikkelig tydelig.
 
 ## Hvis de spør om hvorfor du spør
 
