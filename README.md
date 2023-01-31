@@ -18,4 +18,4 @@ Nå har du en fin-fin anledning. Da kan du svare kort:
 Innspill forslag? Post som [issue](https://github.com/eklem/rolleblanding.no/issues/new) her, hvis du har bruker, eller post til meg på Twitter: [https://twitter.com/eklem](https://twitter.com/eklem) (DM går også bra)
 
 
-Lisens: [Creative Commons Zero v1.0 Universal](LISENCE)
+Lisens: [Creative Commons Zero v1.0 Universal](LICENSE)
