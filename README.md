@@ -3,6 +3,7 @@
 * `"Representerer du/dere Norsk narkotikapoliti-forening, eller politiet?"`.
   Spør tydelig. Spør hver gang. De bytter rolle stadig vekk.
 * `"Så du/dere representerer ikke Norsk Narkotikapolitiforening?"`, hvis de i politiuniform allerede har presenterer seg som politi.
+* Hvis de presenterer seg som politi: `"Men er du meldem av Norsk Narkiotikapolitiforening?"` Hvis svaret er ja: `"Hvordan kan jeg da vite at du ikke blander rollene mellom politi og Norsk Narkotikapolitiforening?"`
 
 Prøv å få et svar. Rop gjerne over gata. Spør høfflig nok, men skikkelig tydelig.
 
@@ -11,8 +12,8 @@ Prøv å få et svar. Rop gjerne over gata. Spør høfflig nok, men skikkelig ty
 Nå har du en fin-fin anledning. Da kan du svare kort:
 
 * `"Dere bytter rolle hele tiden"`. Dette er også grunnen til at du kan spørre hver gang. Du vet aldri hvilken rolle de er i.
-* Fortelle mer om at det er vanskelig å vite siden det som tilsynelatende ser ut som politi, argumenterer som Norsk Narkotikapolitiforening.
-* Fortelle at du er veldig usikker, siden [Riksadvokaten i brev av 9. april 2021 kom med en presisering om tvangsmiddelbruk i mindre alvorlige narkotikasaker](https://www.riksadvokaten.no/wp-content/uploads/2022/02/Nasj-rapport-tvangsmiddelbruk-i-mindre-alv-narkotikasaker.pdf). Noe som det i den situasjonen du er i ikke ser ut til å bli fulgt av det som ser ut som politi.
+* Fortelle mer om at `"Det er vanskelig å vite siden det som tilsynelatende ser ut som politi, argumenterer som Norsk Narkotikapolitiforening"`.
+* Fortelle at `"Jeg er veldig usikker, siden [Riksadvokaten i brev av 9. april 2021 kom med en presisering om tvangsmiddelbruk i mindre alvorlige narkotikasaker](https://www.riksadvokaten.no/wp-content/uploads/2022/02/Nasj-rapport-tvangsmiddelbruk-i-mindre-alv-narkotikasaker.pdf). Noe som det i den situasjonen jeg er i ikke ser ut til å bli fulgt av det som ser ut som politi"`.
 
 # Forslag?
 
