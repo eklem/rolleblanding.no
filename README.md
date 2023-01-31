@@ -14,8 +14,6 @@ Nå har du en fin-fin anledning. Da kan du svare kort:
 * Fortelle mer om at det er vanskelig å vite siden det som tilsynelatende ser ut som politi, argumenterer som Norsk Narkotikapolitiforening.
 * Fortelle at du er veldig usikker, siden [Riksadvokaten i brev av 9. april 2021 kom med en presisering om tvangsmiddelbruk i mindre alvorlige narkotikasaker](https://www.riksadvokaten.no/wp-content/uploads/2022/02/Nasj-rapport-tvangsmiddelbruk-i-mindre-alv-narkotikasaker.pdf). Noe som det i den situasjonen du er i ikke ser ut til å bli fulgt av det som ser ut som politi.
 
+# Forslag?
 
-Innspill forslag? Post som [issue](https://github.com/eklem/rolleblanding.no/issues/new) her, hvis du har bruker, eller post til meg på Twitter: [https://twitter.com/eklem](https://twitter.com/eklem) (DM går også bra)
-
-
-Lisens: [Creative Commons Zero v1.0 Universal](LICENSE)
+Har du forslag eller innspill? Post som [issue](https://github.com/eklem/rolleblanding.no/issues/new) her, hvis du har bruker, eller post til meg på Twitter: [https://twitter.com/eklem](https://twitter.com/eklem) (DM går også bra)
