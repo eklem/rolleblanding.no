@@ -1,6 +1,3 @@
-# rolleblanding.no
-En liten websiden om hvordan få slutt på #rolleblanding mellom #politiet og #nnpf. Kort fortalt - Gjøre politiet/NNPF lei av å ha to roller. Spør hvilken rolle de har i dag.
-
 # Hver gang du ser en eller flere i politiuniform, spør:
 
 * `"Representerer du/dere Norsk narkotikapoliti-forening, eller politiet?"`.
