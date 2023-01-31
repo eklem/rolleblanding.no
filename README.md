@@ -1,6 +1,7 @@
+# Hva er denne siden for noe?
 En liten websiden om hvordan få slutt på #rolleblanding mellom #politiet og #nnpf. Kort fortalt - Gjøre politiet/NNPF lei av å ha to roller. Spør hvilken rolle de har i dag.
 
-## Hver gang du ser en eller flere i politiuniform, spør:
+# Hver gang du ser en eller flere i politiuniform, spør:
 
 * `"Representerer du/dere Norsk narkotikapoliti-forening, eller politiet?"`.
   Spør tydelig. Spør hver gang. De bytter rolle stadig vekk.
@@ -8,7 +9,7 @@ En liten websiden om hvordan få slutt på #rolleblanding mellom #politiet og #n
 
 Prøv å få et svar. Rop gjerne over gata. Spør høfflig nok, men skikkelig tydelig.
 
-## Hvis de spør om hvorfor du spør
+# Hvis de spør om hvorfor du spør
 
 Nå har du en fin-fin anledning. Da kan du svare kort:
 
