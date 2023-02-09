@@ -32,7 +32,7 @@ Fortelle mer om at:
 
 Fortelle at:
 > **"Jeg er veldig usikker, siden [Riksadvokaten i brev av 9. april 2021 kom med en presisering om tvangsmiddelbruk i mindre alvorlige narkotikasaker](https://www.riksadvokaten.no/wp-content/uploads/2022/02/Nasj-rapport-tvangsmiddelbruk-i-mindre-alv-narkotikasaker.pdf).
-I denne situasjonen jeg er i ser det ikke ut til å bli fulgt av deg som ser ut som politi".**
+I denne situasjonen jeg er i ser det ikke ut til å bli fulgt av deg som ser ut som politi"**
 
 
 # Del spørsmålet og svaret
