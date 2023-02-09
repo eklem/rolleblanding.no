@@ -15,6 +15,11 @@ Nå har du en fin-fin anledning. Da kan du svare kort:
 * Fortelle mer om at `"Det er vanskelig å vite siden det som tilsynelatende ser ut som politi, argumenterer som Norsk Narkotikapolitiforening"`.
 * Fortelle at `"Jeg er veldig usikker, siden [Riksadvokaten i brev av 9. april 2021 kom med en presisering om tvangsmiddelbruk i mindre alvorlige narkotikasaker](https://www.riksadvokaten.no/wp-content/uploads/2022/02/Nasj-rapport-tvangsmiddelbruk-i-mindre-alv-narkotikasaker.pdf). Noe som det i den situasjonen jeg er i ikke ser ut til å bli fulgt av det som ser ut som politi"`.
 
+
+# Del spørsmålet og svaret
+
+Når du har spurt, del både spørsmålet og svaret ett eller annet sted på sosiale medier.
+
 # Forslag?
 
 Har du forslag eller innspill? Post som [issue](https://github.com/eklem/rolleblanding.no/issues/new) her, hvis du har bruker, eller post til meg på Twitter: [https://twitter.com/eklem](https://twitter.com/eklem) (DM går også bra)
