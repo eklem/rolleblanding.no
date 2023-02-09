@@ -1,7 +1,7 @@
 # Hver gang du ser en eller flere i politiuniform, spør:
 
 * `"Representerer du/dere Norsk narkotikapoliti-forening, eller politiet?"`.
-  Spør tydelig. Spør hver gang. De bytter rolle stadig vekk.
+  Spør tydelig. Spør hver gang. De bytter rolle stadig vekk. 
 * `"Så du/dere representerer ikke Norsk Narkotikapolitiforening?"`, hvis de i politiuniform allerede har presenterer seg som politi.
 * Hvis de presenterer seg som politi: `"Men er du meldem av Norsk Narkiotikapolitiforening?"` Hvis svaret er ja: `"Hvordan kan jeg da vite at du ikke blander rollene mellom politi og Norsk Narkotikapolitiforening?"`
 
