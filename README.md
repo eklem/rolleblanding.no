@@ -1,4 +1,4 @@
-# Hver gang du ser en eller flere i politiuniform, spør:
+# Spør hver gang du ser en eller flere i politiuniform
 
 Spør tydelig. Spør hver gang. De bytter rolle stadig vekk. 
 > **"Representerer du/dere Norsk narkotikapoliti-forening, eller politiet?"**
